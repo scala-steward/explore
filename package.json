@@ -40,7 +40,7 @@
     "space-separated-tokens": "^2.0.0",
     "style-to-object": "^0.3.0",
     "styled-components": "5.1.1",
-    "ua-parser-js": "0.7.23",
+    "ua-parser-js": "0.7.28",
     "unified": "^9.2.1"
   },
   "devDependencies": {
